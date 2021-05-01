@@ -1,0 +1,10 @@
+- Setting Up a Github Repo
+- Configuring SSH access to the repo
+- Cloning the Repo and Setting Up the repo using git flow
+- Creating docker-compose.yml file for jenkins
+- Spinning Up the docker container and configuring jenkins
+- Create the first pipeline
+- Setting up the credentials
+- Creating a jenkins file in the repository
+- Configuring the hook for local commits to be sent to jenkins for vallidation
+- Configuring the hook for branch creations to be sent to jenkins for vallidation 
